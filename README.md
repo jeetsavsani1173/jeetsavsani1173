@@ -28,12 +28,12 @@
 <br>
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/jeet-savsani-1b56b7201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeet-savsani-1b56b7201/" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/jeetsavsani1173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jeetsavsani1173" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jeetsavsani117" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/jeetsavsani117" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jeetsavsani117" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/jeetsavsani117" height="30" width="40" /></a>
-<a href="https://leetcode.com/jeetsavsani1173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jeetsavsani1173/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jeetsavsani1173/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/jeetsavsani1173/profile" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@jeetsavsani42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeetsavsani42" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/jeetsavsani1173" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jeetsavsani1173" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jeetsavsani117" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/jeetsavsani117" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jeetsavsani117" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/jeetsavsani117" height="30" width="40" /></a>
+<a href="https://leetcode.com/jeetsavsani1173/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jeetsavsani1173/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jeetsavsani1173/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/jeetsavsani1173/profile" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@jeetsavsani42" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeetsavsani42" height="30" width="40" /></a> -->
 
 <br><br>
 
@@ -85,7 +85,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeetsavsani1173&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats" ><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeetsavsani1173&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Savsani Jeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsavsani1173&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -102,10 +102,10 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/jeet-savsani-1b56b7201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SavsaniJeet"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/jeetsavsani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/jeet-savsani-1b56b7201/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/SavsaniJeet" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/jeetsavsani/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
