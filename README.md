@@ -22,6 +22,7 @@
 
 <br><br>
 
+<!--
 ## 🟢Coding Profile! 
 
 <h3 align="left">Connect with me:</h3> 
@@ -35,7 +36,7 @@
 <a href="https://auth.geeksforgeeks.org/user/jeetsavsani1173/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/jeetsavsani1173/profile" height="30" width="40" /></a> 
 <a href="https://medium.com/@jeetsavsani42" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeetsavsani42" height="30" width="40" /></a> 
 
-<br><br> 
+<br><br> -->
 
 ## 🚀 Languages and Tools:
 <br>
