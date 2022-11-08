@@ -91,9 +91,12 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<br/>
+<br/>
 
-<br/>
-<br/>
+## 🤩 Open Source Badge's
+
+[![@jeetsavsani1173's Holopin board](https://holopin.me/jeetsavsani1173)](https://holopin.io/@jeetsavsani1173)
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jeetsavsani1173&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
