@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my Activity are available at **[My Portfolio](https://jeetsavsani1173.github.io/portfollie/)**
+- 👨‍💻 All of my Activity are available at **[My Portfolio](https://jeet-portfolio.netlify.app/)**
 
 - 📫 How to reach me **jeetsavsani1173@gmail.com**
 
