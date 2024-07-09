@@ -8,9 +8,9 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently Software Engineer At  **Crest Data**
 
-- 🚀 I’m currently doing **Competitive Programming.** 
+- 🚀 I’m currently Learning and exploring field of **Software** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
