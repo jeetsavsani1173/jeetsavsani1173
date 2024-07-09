@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Software Engineer At  **Crest Data**
 
-- 🚀 I’m currently Learning and exploring field of **Software** 
+- 🚀 I’m currently Learning and exploring in field of **Software** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
