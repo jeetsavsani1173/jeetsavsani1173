@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jeetsavsani1173@gmail.com**
 
-- ⚡ Fun fact **I play games**
+- ⚡ Fun fact **I play games & read books**
 
 <br><br>
 
